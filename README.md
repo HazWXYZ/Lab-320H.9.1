@@ -2,6 +2,7 @@
 
 ## How to use: use the "npm run dev" command in the terminal then follow the localhost link.
 
+# Requirements Completed
 ### useReducer handles all the todo state (add, delete, toggle, edit) — the lab specifically asks for this
 ### useState is used inside TodoItem for the local edit mode (text input value + whether editing is active), which is the right call since it's per-item UI state
 ### Delete is disabled unless the todo is checked ✓
