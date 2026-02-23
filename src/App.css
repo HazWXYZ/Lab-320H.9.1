@@ -48,7 +48,7 @@ button {
   padding: 7px 14px;
   border: 1px solid #bbb;
   border-radius: 4px;
-  background: white;
+  background: rgb(28, 124, 108);
   cursor: pointer;
   font-size: 0.9rem;
 }
